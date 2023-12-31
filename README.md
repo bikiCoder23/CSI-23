@@ -20,3 +20,9 @@ This is my final project of Power Bi Dashboard for the Celebal Summer Internship
 1. **SQL Server Management Studio Access:** Utilize SQL Server Management Studio to access the Azure SQL server created previously. Ensure to authenticate using the credentials set during the SQL Server configuration.
 2. **Data Cleansing & Transformation:** Employ SQL queries within the SQL Server Management Studio to transform the pipelined data, focusing on data cleansing or scrubbing as specified.
 3. **Dashboard Creation in Power BI:** Post transformation, import the processed data into Power BI from SQL Server. Here, design an interactive and dynamic dashboard, presenting data insights in a visually appealing and actionable manner, guiding future decision-making processes.
+
+### Project Outline
+![image](https://github.com/bikiCoder23/CSI-23/assets/76732539/023d93d0-ca94-40bb-b2b7-35a013ff6009)
+![image](https://github.com/bikiCoder23/CSI-23/assets/76732539/373a2aa1-dc6b-42db-b2b6-5c3bdbcb3fa9)
+![image](https://github.com/bikiCoder23/CSI-23/assets/76732539/596119bc-f4ae-4785-a3ba-973386767e8a)
+![image](https://github.com/bikiCoder23/CSI-23/assets/76732539/2d4e83f4-d154-4618-a2b2-47e0d95c742f)
