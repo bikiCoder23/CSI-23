@@ -17,6 +17,6 @@ This is my final project of Power Bi Dashboard for the Celebal Summer Internship
 
 ### Data Transformation & Visualization:
 
-**SQL Server Management Studio Access:** Utilize SQL Server Management Studio to access the Azure SQL server created previously. Ensure to authenticate using the credentials set during the SQL Server configuration.
-**Data Cleansing & Transformation:** Employ SQL queries within the SQL Server Management Studio to transform the pipelined data, focusing on data cleansing or scrubbing as specified.
-**Dashboard Creation in Power BI:** Post transformation, import the processed data into Power BI from SQL Server. Here, design an interactive and dynamic dashboard, presenting data insights in a visually appealing and actionable manner, guiding future decision-making processes.
+1. **SQL Server Management Studio Access:** Utilize SQL Server Management Studio to access the Azure SQL server created previously. Ensure to authenticate using the credentials set during the SQL Server configuration.
+2. **Data Cleansing & Transformation:** Employ SQL queries within the SQL Server Management Studio to transform the pipelined data, focusing on data cleansing or scrubbing as specified.
+3. **Dashboard Creation in Power BI:** Post transformation, import the processed data into Power BI from SQL Server. Here, design an interactive and dynamic dashboard, presenting data insights in a visually appealing and actionable manner, guiding future decision-making processes.
